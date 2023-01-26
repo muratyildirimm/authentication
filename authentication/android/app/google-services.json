@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46286309770",
+    "project_id": "olacakk-5f85b",
+    "storage_bucket": "olacakk-5f85b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46286309770:android:cb3b195c107e8d44b06073",
+        "android_client_info": {
+          "package_name": "com.example.olacak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46286309770-6irb6nbf69jmk6024jsqssmdecau00md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7lLlmpFKv89mNLuHgJe64SGN62FuAKNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46286309770-6irb6nbf69jmk6024jsqssmdecau00md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
